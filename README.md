@@ -18,3 +18,32 @@ Open a terminal and run:
 ```bash
 chmod +x installDependences_linux.sh
 ./installDependences_linux.sh
+```
+
+### On Windows
+
+Run `installDependences_windows.cmd` from Command Prompt.
+
+## How to run
+
+After installation, run the scripts with on windows:
+
+```
+run_windows.bat
+```
+
+or on linux:
+
+```
+sudo bash run_linux.sh
+```
+
+## Contributions
+
+Contributions are welcome! If you have suggestions or find bugs, feel free to open an issue or a pull request.
+
+## License
+
+idc use it how you want
+:)
+:)
